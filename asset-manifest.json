@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/candidate-registration/static/js/main.01a33b58.js",
+    "index.html": "/candidate-registration/index.html",
+    "main.01a33b58.js.map": "/candidate-registration/static/js/main.01a33b58.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.01a33b58.js"
+  ]
+}
